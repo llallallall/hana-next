@@ -6,9 +6,9 @@ import Circles from '@/components/Circles'
 // import 'mapbox-gl/dist/mapbox-gl.css'
 //import MapGL from '@/components/MapGL'
 //import { lists } from '@/contexts/map'
-// import dynamic from 'next/dynamic'
-// const MapDeck = dynamic(() => import('@/components/MapDeck'), { ssr: false })
-import MapDeck from '@/components/MapDeck'
+import dynamic from 'next/dynamic'
+const MapDeck = dynamic(() => import('@/components/MapDeck'), { ssr: false })
+//import MapDeck from '@/components/MapDeck'
 const page = () => {
         const [viewState, setViewState] = useState({
                 longitude: 0,
