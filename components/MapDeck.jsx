@@ -8,8 +8,6 @@ import { MaskExtension } from '@deck.gl/extensions'
 import AnimatedArcLayer from '@/app/map/animated-arc-group-layer'
 
 const MapDeck = ({ sendToParent, viewState, flights, dataLoaded }) => {
-        //fetchData()
-
         // 지도 배경 - 라인
 
         const countries = new GeoJsonLayer({
@@ -68,7 +66,7 @@ const MapDeck = ({ sendToParent, viewState, flights, dataLoaded }) => {
 
         // Arc 라인 변수
         const timeWindow = 30
-        const animationSpeed = 10 // 60 = 1min, 600 = 10mins, 3600 = 1hour
+        const animationSpeed = 1 // 60 = 1min, 600 = 10mins, 3600 = 1hour
         const [currentTime, setCurrentTime] = useState(0)
         const [highlight, setHighlight] = useState(null)
 
@@ -114,8 +112,8 @@ const MapDeck = ({ sendToParent, viewState, flights, dataLoaded }) => {
         const flightPathsLayer = new AnimatedArcLayer({
                 ...flightLayerProps,
                 id: 'flight-paths',
-                timeRange: [currentTime - 60, currentTime], // 60 = 1min
-                getWidth: 0.2,
+                timeRange: [currentTime - 600, currentTime], // 60 = 1min
+                getWidth: 2,
                 widthMinPixels: 1,
                 widthMaxPixels: 4,
                 widthUnits: 'common',
