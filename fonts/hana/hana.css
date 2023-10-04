@@ -1,0 +1,35 @@
+@font-face {
+        font-family: 'hana-bold';
+        src: url('~/assets/fonts/hana/Hana2-Bold.ttf') format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'hana-cm';
+        src: url('~/assets/fonts/hana/Hana2-CM.ttf') format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'hana-heavy';
+        src: url('~/assets/fonts/hana/Hana2-Heavy.ttf') format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'hana-light';
+        src: url('~/assets/fonts/hana/Hana2-Light.ttf') format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'hana-medium';
+        src: url('~/assets/fonts/hana/Hana2-Medium.ttf') format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'hana-regular';
+        src: url('~/assets/fonts/hana/Hana2-Regular.ttf') format('truetype');
+        font-style: 'normal';
+}

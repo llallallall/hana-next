@@ -1,0 +1,55 @@
+@font-face {
+        font-family: 'apple-gothic-bold';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoB.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-extrabold';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoEB.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-heavy';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoH.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-light';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoL.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-medium';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoM.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-regular';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoR.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-thin';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoT.ttf')
+                format('truetype');
+        font-style: 'normal';
+}
+
+@font-face {
+        font-family: 'apple-gothic-ultralight';
+        src: url('~/assets/fonts/apple/AppleSDGothicNeoUL.ttf')
+                format('truetype');
+        font-style: 'normal';
+}

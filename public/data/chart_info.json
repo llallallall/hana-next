@@ -1,0 +1,21 @@
+{
+        "detectionCount": 3829,
+        "blockCount": 1172,
+        "alert": "관심",
+        "stateTodayComplete": 890,
+        "stateTodayImcomplete": 0,
+        "stateYesterdayComplete": 840,
+        "stateYesterdayImcomplete": 0,
+        "casesHigh": 75,
+        "casesMedium": 761,
+        "casesLow": 58,
+        "weeklyTrend": [
+                31,
+                110,
+                60,
+                105,
+                70,
+                129,
+                100
+        ]
+}

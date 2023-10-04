@@ -1,0 +1,9202 @@
+[
+  {
+    "datetime": "2023-10-01_00:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 333,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 35,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 494,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 552,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_00:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 868,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 333,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 35,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 494,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 552,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_00:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 868,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 333,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 35,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 494,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 552,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_00:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 868,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_00:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 430,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 332,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 634,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_00:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 70,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_00:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 350,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_01:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 240,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_01:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 416,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_01:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 122,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 806,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 478,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 485,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_01:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 298,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 832,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_01:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 722,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 28,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 201,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_01:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 674,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_01:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 908,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_01:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 213,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_01:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 77,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 813,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 609,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 142,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_02:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 490,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 109,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 924,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_02:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 154,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 860,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 490,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 590,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 576,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 979,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_02:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 740,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 483,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 902,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 219,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 752,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_02:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 302,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 558,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_02:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 735,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 229,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 318,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_03:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 553,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 534,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 394,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 821,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 391,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 587,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 325,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 604,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 422,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 339,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 327,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 306,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 188,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 200,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_03:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 922,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_03:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 43,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_03:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 703,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_03:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 351,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_04:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 317,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_04:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 261,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_04:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 385,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_04:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 24,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_04:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 285,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_04:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 946,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_04:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 651,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_04:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 118,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_04:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 667,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_04:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 540,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_05:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 982,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 730,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_05:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 881,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_05:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 491,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 221,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 482,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 87,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_05:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 54,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 462,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_05:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 403,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_05:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 175,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_05:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 768,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_05:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 172,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_05:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 419,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_05:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 139,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 77,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 9,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 529,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 890,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 619,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 994,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 869,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 746,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 970,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 505,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 698,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 808,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 295,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 257,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 952,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 767,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 890,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_06:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 117,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_06:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 955,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_06:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 644,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 541,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 708,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_07:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 242,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 108,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 12,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_07:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 497,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 272,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 908,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 697,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 868,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_07:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 282,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 514,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_07:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 577,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 223,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 720,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 151,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 980,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_07:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 273,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_07:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 671,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_07:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 870,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_08:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 654,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 957,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 135,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_08:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 858,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_08:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 694,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_08:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 368,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_08:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 604,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 543,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 124,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_08:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 589,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_08:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 51,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_08:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 845,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 251,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 841,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_08:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 211,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 174,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 931,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 795,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 165,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 489,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 915,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 653,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_09:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 55,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 930,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 897,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 496,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 301,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_09:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 610,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_09:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 74,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_09:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 317,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 819,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 588,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 201,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 476,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 996,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 89,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 264,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 777,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 43,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 57,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 638,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_10:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 173,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 441,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 728,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 488,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_10:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 577,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_10:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 686,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_10:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 346,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_10:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 318,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_10:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 564,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 522,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 563,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_11:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 823,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 202,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 751,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 765,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_11:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 483,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 553,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 157,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 692,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_11:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 260,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 702,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_11:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 80,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 948,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_11:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 20,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_12:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 896,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_12:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 217,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_12:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 168,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_12:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 208,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_12:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 486,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_12:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 580,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_12:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 237,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_12:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 846,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_12:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 311,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_12:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 871,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_13:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 815,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_13:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 11,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_13:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 828,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_13:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 451,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_13:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 576,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_13:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 703,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_13:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 209,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_13:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 190,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_13:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 20,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_13:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 991,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_14:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 793,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 956,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 249,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 277,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 704,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 822,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_14:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 729,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 256,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 153,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 91,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_14:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 657,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 518,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 767,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 12,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 340,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 431,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_14:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 299,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_14:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 175,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_14:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 113,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_14:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 972,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 186,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 290,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_15:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 331,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 12,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 507,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 534,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_15:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 567,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 933,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 479,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 225,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 817,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 356,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_15:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 839,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_15:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 15,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 939,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_15:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 557,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 314,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 59,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_15:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 161,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_15:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 446,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_16:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 222,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_16:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 868,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 407,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 579,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 853,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_16:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 631,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 394,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_16:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 967,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_16:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 785,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_16:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 923,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_16:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 696,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 179,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_16:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 811,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_16:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 495,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_16:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 104,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 674,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 924,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 881,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 356,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 150,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 998,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 618,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 294,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 177,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 416,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 434,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 914,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 331,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 183,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 138,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_17:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 38,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 45,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 137,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_17:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 826,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_17:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 854,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 837,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 803,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_18:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 718,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_18:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 239,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 365,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 480,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 996,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 374,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 591,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 309,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 260,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_18:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 818,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_18:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 13,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_18:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 431,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_18:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 337,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_19:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 108,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_19:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 811,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_19:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 601,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_19:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 353,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_19:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 561,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_19:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 42,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_19:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 399,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_19:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 536,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_19:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 34,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_19:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 959,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_20:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 868,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_20:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 664,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 788,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_20:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 495,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_20:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 750,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 859,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 402,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 85,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_20:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 440,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_20:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 580,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_20:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 340,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 823,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 130,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_20:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 658,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_20:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 713,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_21:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 88,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_21:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 404,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 538,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_21:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 492,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_21:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 411,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_21:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 24,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 177,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_21:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 349,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 250,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_21:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 294,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 63,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 252,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_21:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 948,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_21:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 90,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_21:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 374,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 132,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_22:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 865,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_22:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 646,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 397,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_22:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 361,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 502,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 594,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_22:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 313,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_22:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 511,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_22:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 195,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 882,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_22:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 847,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_22:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 284,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_22:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 24,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_22:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 566,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_23:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 240,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_23:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 796,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_23:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 279,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_23:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 895,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_23:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 485,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 680,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_24:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 86,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_24:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 958,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 985,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 916,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 258,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 558,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 766,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 213,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 949,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-01_24:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 455,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 574,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-01_24:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 290,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 101,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-01_24:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 292,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 464,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_00:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 657,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 381,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 812,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_00:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 502,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 323,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_00:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 723,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 300,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_00:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 465,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_00:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 421,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 495,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 694,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_01:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 309,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_01:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 710,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 964,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 314,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 396,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_01:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 647,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_01:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 405,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_01:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 576,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_01:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 564,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_01:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 548,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_01:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 947,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_01:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 827,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_01:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 308,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 194,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_02:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 438,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 745,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 159,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_02:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 309,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 175,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_02:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 142,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 407,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 608,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 530,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 716,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 342,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 267,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_02:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 5,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_02:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 433,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 861,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 122,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 611,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_02:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 994,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_02:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 413,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 149,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 997,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_03:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 89,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_03:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 264,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 680,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 972,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_03:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 141,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 162,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 229,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_03:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 127,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_03:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 256,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 932,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 845,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 150,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 860,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 291,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_03:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 185,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 760,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_03:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 568,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_03:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 892,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_04:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 180,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_04:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 97,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_04:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 640,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_04:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 486,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_04:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 491,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_04:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 991,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_04:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 246,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_04:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 282,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_04:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 47,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_04:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 945,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_05:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 336,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_05:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 292,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 126,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_05:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 158,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 227,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 569,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 963,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_05:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 535,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 477,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_05:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 739,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_05:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 941,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_05:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 419,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_05:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 99,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_05:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 694,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_05:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 181,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_06:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 518,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 340,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 436,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_06:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 635,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 867,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 795,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_06:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 977,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 578,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_06:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 371,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 51,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 910,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 393,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 451,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 747,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 945,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 662,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 70,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 535,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_06:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 793,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_06:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 57,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 400,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 316,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 781,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 626,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 996,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 766,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 320,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 195,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 806,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 645,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 968,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 16,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 261,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 820,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_07:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 229,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 658,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_07:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 332,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 767,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 807,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_07:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 350,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 922,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 119,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 181,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_08:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 329,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_08:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 361,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_08:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 909,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_08:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 327,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_08:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 834,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 236,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 710,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_08:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 908,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_08:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 976,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_08:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 928,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_08:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 516,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_08:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 206,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_09:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 200,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_09:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 754,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_09:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 832,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_09:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 943,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_09:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 260,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_09:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 213,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_09:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 109,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_09:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 539,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_09:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 386,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_09:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 525,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_09:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 112,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_09:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 294,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_09:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 246,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_09:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 871,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_09:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 132,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 32,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 776,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 137,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_10:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 822,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 116,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 380,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 121,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_10:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 814,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_10:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 309,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_10:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 831,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 454,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_10:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 754,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_10:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 322,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_10:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 583,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 708,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_10:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 810,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 69,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_10:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 339,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 674,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_10:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 179,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 317,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_11:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 984,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 164,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 485,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_11:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 959,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 271,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_11:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 515,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_11:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 635,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_11:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 405,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_11:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 581,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_11:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 304,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 822,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 530,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 899,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_11:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 79,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_12:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 426,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_12:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 672,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_12:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 106,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_12:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 716,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_12:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 116,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_12:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 642,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_12:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 223,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_12:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 304,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_12:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 187,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_12:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 74,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_13:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 132,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_13:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 690,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_13:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 238,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_13:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 641,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_13:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 654,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_13:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 206,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_13:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 638,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_13:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 405,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_13:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 940,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_13:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 42,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 931,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 94,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 853,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 381,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 415,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 513,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 599,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 775,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 794,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 345,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 26,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 891,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 363,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 525,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 246,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 783,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 151,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_14:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 597,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_14:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 757,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_14:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 957,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 477,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_15:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 685,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_15:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 603,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 593,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_15:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 953,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 891,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_15:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 355,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 823,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 130,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_15:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 533,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 127,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_15:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 200,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 69,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_15:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 462,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 651,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_15:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 186,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 252,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_15:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 650,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_15:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 602,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_15:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 277,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 122,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_16:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 643,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_16:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 711,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_16:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 548,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 270,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_16:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 567,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 999,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_16:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 772,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_16:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 615,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_16:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 461,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 626,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 844,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 120,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_16:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 348,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_16:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 523,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_17:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 769,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_17:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 419,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 124,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 624,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_17:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 954,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_17:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 938,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 649,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 177,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 118,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 656,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 34,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 369,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 352,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 287,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 892,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 181,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 659,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 651,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_17:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 220,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_17:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 748,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 84,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 767,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_18:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 666,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_18:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 153,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_18:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 312,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 617,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 199,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 317,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 678,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 232,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 994,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 910,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 146,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_18:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 330,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_18:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 433,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_19:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 814,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_19:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 853,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_19:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 834,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_19:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 151,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_19:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 272,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_19:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 952,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_19:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 330,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_19:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 781,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_19:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 220,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_19:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 761,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 425,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 947,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 768,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_20:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 162,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 49,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 926,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 69,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_20:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 675,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_20:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 342,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_20:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 788,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_20:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 961,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_20:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 899,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_20:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 753,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_20:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 657,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_20:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 465,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 778,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_21:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 34,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_21:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 106,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_21:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 110,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 173,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_21:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 730,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 253,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 930,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 727,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_21:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 964,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 707,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_21:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 32,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_21:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 833,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_21:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 709,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_21:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 296,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 800,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_22:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 1000,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 920,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_22:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 552,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 951,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_22:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 128,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 266,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_22:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 711,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 586,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_22:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 87,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_22:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 566,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_22:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 227,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 430,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_22:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 813,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_22:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 343,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_23:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 875,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_23:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 82,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_23:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 672,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_23:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 332,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_23:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 56,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_24:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 92,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 968,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 116,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_24:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 734,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_24:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 16,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_24:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 692,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_24:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 20,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 659,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_24:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 726,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 60,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_24:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 353,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-02_24:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 607,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-02_24:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 801,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 703,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-02_24:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 564,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_00:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 612,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_00:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 892,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_00:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 916,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_00:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 311,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_00:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 595,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_00:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 306,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_00:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 338,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_00:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 767,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_00:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 667,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_00:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 367,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 439,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 685,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 904,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_01:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 500,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 511,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_01:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 254,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 8,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 566,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_01:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 73,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_01:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 357,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_01:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 146,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 735,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_01:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 589,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 953,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_01:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 44,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 992,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 875,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 107,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 402,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 562,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 289,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 659,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 30,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 341,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 372,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 729,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 168,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 551,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 148,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_02:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 841,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 786,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 153,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_02:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 312,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 444,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_02:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 244,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 409,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 24,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 608,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 247,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 958,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_03:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 392,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 804,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_03:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 635,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_03:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 932,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 783,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 951,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 832,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_03:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 493,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 788,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 862,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 655,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_03:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 117,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_03:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 384,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 748,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_03:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 777,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_04:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 334,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_04:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 173,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_04:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 390,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_04:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 688,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_04:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 448,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_04:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 88,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_04:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 921,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_04:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 881,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_04:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 572,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_04:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 624,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_05:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 982,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_05:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 595,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 71,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 755,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 970,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_05:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 998,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 652,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 812,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 494,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_05:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 464,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 596,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_05:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 969,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 60,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 15,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_05:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 856,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 774,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 214,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 561,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 995,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 645,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 9,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 507,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 104,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 750,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 257,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 185,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 474,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 101,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 832,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 569,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 987,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_06:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 848,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_06:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 69,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 232,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_06:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 876,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 467,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 988,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 945,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 354,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 477,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 522,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 633,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 95,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 997,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 189,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 483,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 363,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 998,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 242,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_07:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 76,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 152,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 714,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 62,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_07:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 448,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_07:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 987,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 79,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 945,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 411,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 667,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 270,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 560,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 585,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_08:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 823,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 340,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 283,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 200,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 184,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 62,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_08:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 948,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_08:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 911,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 891,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 1,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 449,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 925,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_09:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 414,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 639,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_09:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 376,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 549,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 257,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 835,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_09:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 750,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 586,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 833,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 374,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_09:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 453,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_10:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 55,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 82,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 737,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 708,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_10:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 342,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_10:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 465,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 856,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 109,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 716,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 708,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_10:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 377,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_10:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 446,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 744,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 602,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 505,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 705,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 917,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 602,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_10:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 173,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_10:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 672,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_11:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 764,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_11:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 310,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 539,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_11:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 404,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 899,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_11:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 181,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_11:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 549,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_11:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 472,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 891,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_11:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 407,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 957,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_11:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 826,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 671,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_11:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 32,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_11:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 829,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_12:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 313,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_12:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 36,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_12:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 460,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_12:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 948,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_12:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 793,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_12:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 921,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_12:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 175,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_12:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 929,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_12:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 749,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_12:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 210,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 103,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_13:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 191,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 447,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_13:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 247,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 710,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_13:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 932,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 53,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 16,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 916,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_13:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 214,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 414,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 44,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 970,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_14:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 49,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 366,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 718,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 902,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 677,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_14:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 279,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 623,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 393,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 158,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 732,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 32,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 286,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_14:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 680,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 437,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_14:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 658,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_14:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 676,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_14:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 684,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 243,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 43,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:00",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 506,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:00",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 112,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_15:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 693,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_15:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 576,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 979,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_15:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 740,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 483,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 902,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 219,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 752,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 302,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 558,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 735,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 229,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 318,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_15:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 553,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_15:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 534,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_15:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 394,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 821,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 391,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 587,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 325,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 604,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 422,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 339,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 327,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 306,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 188,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 200,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_16:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 922,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_16:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 43,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_16:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 703,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_16:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 351,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 317,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 261,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 385,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 24,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_17:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 285,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 946,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_17:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 651,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 118,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 667,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 540,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 982,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 730,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:30",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 881,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_17:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 491,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 221,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 482,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 87,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_17:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 54,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_17:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 462,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_17:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 403,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 175,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 768,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_18:15",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 172,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_18:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 419,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_18:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 139,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_18:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 77,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_18:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 9,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 529,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 890,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_18:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 619,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_18:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 994,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_18:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 869,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_18:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 746,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 970,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_18:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 505,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_19:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 698,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_19:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 808,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_19:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 295,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_19:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 257,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_19:00",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 952,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_19:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 767,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_19:30",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 890,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_19:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 117,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_19:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 955,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_19:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 644,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_20:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 541,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 708,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_20:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 242,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_20:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 108,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_20:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 12,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_20:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 497,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 272,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 908,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_20:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 697,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_20:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 868,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_20:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 282,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:45",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 514,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_20:45",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 577,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 223,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_20:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 720,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_21:00",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 151,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_21:00",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 980,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_21:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 273,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_21:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 671,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_21:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 870,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_21:15",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 654,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_21:15",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 957,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_21:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 135,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_21:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 858,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_21:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 694,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_21:30",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 368,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_21:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 604,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_21:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 543,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_21:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 124,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_21:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 589,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 51,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_22:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 845,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_22:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 251,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_22:15",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 841,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_22:15",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 211,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 174,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_22:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 931,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_22:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 795,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:30",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 165,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:30",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 489,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_22:45",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 915,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 653,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_22:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 55,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_22:45",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 930,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_22:45",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 897,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_23:15",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 496,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_23:15",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 301,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_23:15",
+    "affiliate": "하나카드",
+    "type": "detection",
+    "cases": 610,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_23:15",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 74,
+    "state": "incomplete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_23:15",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 317,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:00",
+    "affiliate": "하나은행",
+    "type": "detection",
+    "cases": 819,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:00",
+    "affiliate": "하나증권",
+    "type": "block",
+    "cases": 588,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:00",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 201,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_24:00",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 476,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:00",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 996,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:30",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 89,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_24:30",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 264,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_24:30",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 777,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:30",
+    "affiliate": "하나금융티아이",
+    "type": "block",
+    "cases": 43,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:30",
+    "affiliate": "ETC",
+    "type": "block",
+    "cases": 57,
+    "state": "incomplete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_24:45",
+    "affiliate": "하나은행",
+    "type": "block",
+    "cases": 638,
+    "state": "complete",
+    "risk": "medium"
+  },
+  {
+    "datetime": "2023-10-03_24:45",
+    "affiliate": "하나증권",
+    "type": "detection",
+    "cases": 173,
+    "state": "complete",
+    "risk": "low"
+  },
+  {
+    "datetime": "2023-10-03_24:45",
+    "affiliate": "하나카드",
+    "type": "block",
+    "cases": 441,
+    "state": "complete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:45",
+    "affiliate": "하나금융티아이",
+    "type": "detection",
+    "cases": 728,
+    "state": "incomplete",
+    "risk": "high"
+  },
+  {
+    "datetime": "2023-10-03_24:45",
+    "affiliate": "ETC",
+    "type": "detection",
+    "cases": 488,
+    "state": "complete",
+    "risk": "medium"
+  }
+]

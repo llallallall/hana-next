@@ -1,113 +1,223 @@
-import Image from 'next/image'
+'use client'
+import './index.css'
+import { useRef, useState, useEffect, useMemo } from 'react'
+import {
+        affiliates,
+        totalLogs,
+        protections,
+        securityAlert,
+        triagedAlert,
+        escalatedAlert,
+} from '@/contexts/main'
 
-export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.js</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
+const page = () => {
+        const videoRef = useRef(null)
 
-      <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
+        useEffect(() => {
+                if (videoRef && videoRef.current) {
+                        videoRef.current.play()
+                }
+        }, [videoRef])
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Docs{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
+        const logCount = useMemo(() => {
+                let M = 1000000
+                let B = 1000000000
+                let T = 1000000000000
+                let unit = ''
+                let count = 0
+                if (parseInt(totalLogs / T) > 0) {
+                        count = parseInt(totalLogs / T)
+                        unit = 'T'
+                } else if (parseInt(totalLogs / B) > 0) {
+                        count = parseInt(totalLogs / B)
+                        unit = 'B'
+                } else {
+                        count = parseInt(totalLogs / M)
+                        unit = 'M'
+                }
 
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Learn{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
+                return count + unit
+        }, [totalLogs])
 
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Templates{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore the Next.js 13 playground.
-          </p>
-        </a>
+        const securityCount = useMemo(() => {
+                if (securityAlert > 1000) {
+                        return parseInt(securityAlert / 1000) + 'K'
+                } else {
+                        return securityAlert
+                }
+        }, [securityAlert])
 
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  )
+        const triagedCount = useMemo(() => {
+                if (triagedAlert > 1000) {
+                        return parseInt(triagedAlert / 1000) + 'K'
+                } else {
+                        return triagedAlert
+                }
+        }, [triagedAlert])
+
+        const escalatedCount = useMemo(() => {
+                if (escalatedAlert > 1000) {
+                        return parseInt(escalatedAlert / 1000) + 'K'
+                } else {
+                        return escalatedAlert
+                }
+        }, [escalatedAlert])
+
+        const [isOnA, setIsOnA] = useState(true)
+        const [countA, setCountA] = useState(0)
+
+        useEffect(() => {
+                const affiliatesInterval = setInterval(() => {
+                        setIsOnA(false)
+                        let next = countA + 1
+                        if (countA > affiliates.length - 1) {
+                                setCountA(0)
+                        } else {
+                                setCountA(next)
+                        }
+                        setIsOnA(true)
+                }, 4000)
+                return () => clearInterval(affiliatesInterval)
+        }, [countA])
+
+        const [isOnP, setIsOnP] = useState(true)
+        const [countP, setCountP] = useState(0)
+
+        useEffect(() => {
+                const protectionsInterval = setInterval(() => {
+                        setIsOnP(false)
+                        let next = countP + 1
+                        if (next > protections.length - 1) {
+                                setCountP(0)
+                        } else {
+                                setCountP(next)
+                        }
+                        setIsOnP(true)
+                }, 4000)
+                return () => clearInterval(protectionsInterval)
+        }, [countP])
+
+        const Refresh = ({ children }) => {
+                if (isOnA) {
+                        return <section>{children}</section>
+                }
+        }
+        const RefreshProtection = ({ children }) => {
+                if (isOnP) {
+                        return <section>{children}</section>
+                }
+        }
+
+        return (
+                <div className="z-10 font-extrabold">
+                        <div className="w-screen h-screen z-1 flex justify-center video-wrapper">
+                                <video
+                                        ref={videoRef}
+                                        muted
+                                        loop
+                                        poster="/videos/terasys_2.1.png">
+                                        <source
+                                                src="/videos/terasys_2.1.mp4"
+                                                type="video/mp4"
+                                        />
+                                        Your browser does not support the video
+                                        tag.
+                                </video>
+                                <div className="absolute top-0 left-0 z-10 flex justify-center w-screen h-screen">
+                                        <div className="relative h-[9.8vh] mt-[13.8vh] flex justify-center">
+                                                <div className=" text-white font-apple text-[13.333vh] -translate-y-[5.185vh]">
+                                                        {logCount}
+                                                </div>
+                                        </div>
+                                        <div className="bottom">
+                                                <div className="left ">
+                                                        <div className="h-[6.7vh]">
+                                                                <Refresh>
+                                                                        <div
+                                                                                className="typing-effect font-hana"
+                                                                                data-text={
+                                                                                        affiliates[
+                                                                                                countA
+                                                                                        ]
+                                                                                }>
+                                                                                {
+                                                                                        affiliates[
+                                                                                                countA
+                                                                                        ]
+                                                                                }
+                                                                        </div>
+                                                                </Refresh>
+                                                        </div>
+                                                </div>
+                                                <div className="right">
+                                                        <div className="text-white flex-col w-full flex items-center font-apple">
+                                                                <div className="h-[4vh] mb-[4vh] ">
+                                                                        <RefreshProtection>
+                                                                                <div className="fadeout-effect  text-[4.889vh] -translate-y-[1.481vh]  ">
+                                                                                        {
+                                                                                                protections[
+                                                                                                        countP
+                                                                                                ]
+                                                                                        }
+                                                                                </div>
+                                                                        </RefreshProtection>
+                                                                </div>
+
+                                                                <div className="flex justify-center gap-[7.556vh]">
+                                                                        <div className="flex-col items-center justify-start">
+                                                                                <div className="h-[1.76vh] mb-[2vh] ">
+                                                                                        <div className="flex justify-center items-center text-[1.926vh] -translate-y-[0.444vh] ">
+                                                                                                SECURITY
+                                                                                                EVENT
+                                                                                        </div>
+                                                                                </div>
+                                                                                <div className="h-[4.9vh]">
+                                                                                        <div className="flex justify-center items-center  text-[6.815vh] -translate-y-[2.667vh] ">
+                                                                                                {
+                                                                                                        securityCount
+                                                                                                }
+                                                                                        </div>
+                                                                                </div>
+                                                                        </div>
+                                                                        <div className="flex-col items-center justify-start">
+                                                                                <div className="h-[1.76vh] mb-[2vh] ">
+                                                                                        <div className="flex justify-center items-center text-[1.926vh] -translate-y-[0.444vh] ">
+                                                                                                TRIAGED
+                                                                                                ALERTS
+                                                                                        </div>
+                                                                                </div>
+                                                                                <div className="h-[4.9vh]">
+                                                                                        <div className="flex justify-center items-center  text-[6.815vh] -translate-y-[2.667vh] ">
+                                                                                                {
+                                                                                                        triagedCount
+                                                                                                }
+                                                                                        </div>
+                                                                                </div>
+                                                                        </div>
+
+                                                                        <div className="flex-col items-center justify-start">
+                                                                                <div className="h-[1.76vh] mb-[2vh] ">
+                                                                                        <div className="flex justify-center items-center text-[1.926vh] -translate-y-[0.444vh] ">
+                                                                                                ESCALATED
+                                                                                                ALERTS
+                                                                                        </div>
+                                                                                </div>
+                                                                                <div className="h-[4.9vh]">
+                                                                                        <div className="flex justify-center items-center  text-[6.815vh] -translate-y-[2.667vh] ">
+                                                                                                {
+                                                                                                        escalatedCount
+                                                                                                }
+                                                                                        </div>
+                                                                                </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        )
 }
+
+export default page

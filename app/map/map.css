@@ -1,0 +1,72 @@
+.attacks_container {
+        overflow: hidden;
+
+        mix-blend-mode: hard-light;
+}
+
+.attacks_container::after {
+        position: absolute;
+        content: '';
+        left: 0px;
+        top: 0px;
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(transparent, gray);
+        pointer-events: none;
+}
+
+.map-container {
+        position: absolute;
+        top: 5.981vh;
+        left: 0;
+        width: 100vw;
+        height: 90vh;
+}
+
+.mapboxgl-ctrl-logo {
+        display: none !important;
+}
+
+.scroll-container {
+        /* animation properties */
+        -moz-transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+
+        -moz-animation: scrollup 120s linear infinite;
+        -webkit-animation: scrollup 120s linear infinite;
+        animation: scrollup 120s linear infinite;
+}
+
+/* for Firefox */
+@-moz-keyframes scrollup {
+        from {
+                -moz-transform: translateY(0);
+        }
+        to {
+                -moz-transform: translateY(-100%);
+        }
+}
+
+/* for Chrome */
+@-webkit-keyframes scrollup {
+        from {
+                -webkit-transform: translateY(0%);
+        }
+        to {
+                -webkit-transform: translateY(-100%);
+        }
+}
+
+@keyframes scrollup {
+        from {
+                -moz-transform: translateY(0%);
+                -webkit-transform: translateY(0%);
+                transform: translateY(0%);
+        }
+        to {
+                -moz-transform: translateY(-100%);
+                -webkit-transform: translateY(-100%);
+                transform: translateY(-100%);
+        }
+}
