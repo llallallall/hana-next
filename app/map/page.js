@@ -16,7 +16,7 @@ const page = () => {
 
         useMemo(() => {
                 let newZoom = 1
-                if (window) {
+                if (typeof window != 'undefined') {
                         newZoom = (2.6 / 3820) * window.innerWidth
                 }
 
