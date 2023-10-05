@@ -33,9 +33,9 @@
         -webkit-transform: translateY(0%);
         transform: translateY(0%);
 
-        -moz-animation: scrollup 120s linear infinite;
-        -webkit-animation: scrollup 120s linear infinite;
-        animation: scrollup 120s linear infinite;
+        -moz-animation: scrollup 10s linear infinite;
+        -webkit-animation: scrollup 10s linear infinite;
+        animation: scrollup 10s linear infinite;
 }
 
 /* for Firefox */

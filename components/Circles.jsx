@@ -20,29 +20,29 @@ const Circles = ({ type }) => {
                         <span
                                 className={`${
                                         type.toLowerCase().trim() == 'malware'
-                                                ? 'bg-[#e47eb3]/10'
+                                                ? 'bg-[#e47eb3]/30'
                                                 : ''
                                 }  ${
                                         type.toLowerCase().trim() == 'phishing'
-                                                ? 'bg-[#f4d390]/10'
+                                                ? 'bg-[#f4d390]/30'
                                                 : ''
                                 } ${
                                         type.toLowerCase().trim() == 'intrusion'
-                                                ? 'bg-[#a4e9d4]/10'
+                                                ? 'bg-[#a4e9d4]/30'
                                                 : ''
                                 } absolute rounded-full flex-none w-[1.693vw] h-[2.963vh] z-2 `}></span>
                         <span
                                 className={`${
                                         type.toLowerCase().trim() == 'malware'
-                                                ? 'bg-[#e47eb3]/10'
+                                                ? 'bg-[#e47eb3]/60'
                                                 : ''
                                 }  ${
                                         type.toLowerCase().trim() == 'phishing'
-                                                ? 'bg-[#f4d390]/10'
+                                                ? 'bg-[#f4d390]/60'
                                                 : ''
                                 } ${
                                         type.toLowerCase().trim() == 'intrusion'
-                                                ? 'bg-[#a4e9d4]/10'
+                                                ? 'bg-[#a4e9d4]/60'
                                                 : ''
                                 } absolute rounded-full flex-none w-[0.677vw] h-[1.204vh] z-3 `}></span>
                 </div>

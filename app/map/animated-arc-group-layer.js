@@ -52,7 +52,7 @@ AnimatedArcGroupLayer.defaultProps = AnimatedArcLayer.defaultProps
 function sortAndGroup(data, getStartTime, getEndTime, groupSize) {
         const groups = []
         let group = null
-
+        // if (data.length > 1)
         data.sort((d1, d2) => getStartTime(d1) - getStartTime(d2))
 
         for (const d of data) {

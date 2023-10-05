@@ -1,31 +1,100 @@
 'use client'
+import { useState, useEffect } from 'react'
+
 import dynamic from 'next/dynamic'
 const Chart = dynamic(() => import('react-apexcharts'), { ssr: false })
 
 const page = () => {
-        const seriesA = [
+        const [dataLoaded, setDataLoaded] = useState(false)
+        const [bank, setBank] = useState()
+        const [securities, setSecurities] = useState()
+        const [card, setCard] = useState()
+        const [ti, setTi] = useState()
+        useEffect(() => {
+                fetch('/data/multi_info.json')
+                        .then((resp) => resp.json())
+                        .then((data) => {
+                                data.forEach((el) => {
+                                        if (el.affiliate == 'bank') {
+                                                setBank(el)
+                                        } else if (
+                                                el.affiliate == 'securities'
+                                        ) {
+                                                setSecurities(el)
+                                        } else if (el.affiliate == 'ti') {
+                                                setTi(el)
+                                        } else if (el.affiliate == 'card') {
+                                                setCard(el)
+                                        }
+                                })
+                        })
+                setDataLoaded(true)
+        }, [])
+
+        // 은행
+        const seriesBankTotalArray = [
                 {
                         name: 'series1',
-                        data: [
-                                31, 110, 60, 105, 70, 129, 100, 31, 110, 60,
-                                105, 70, 129, 100, 100, 31, 110, 60, 105, 70,
-                                31, 110, 60, 105, 70, 129, 129, 100, 31, 10, 60,
-                                105, 70, 12, 100, 31, 11, 60, 105, 70, 29, 10,
-                        ],
+                        data: bank?.totalArray,
                 },
         ]
-        const seriesB = [
+        const seriesBankAttackArray = [
                 {
                         name: 'series1',
-                        data: [
-                                31, 110, 60, 105, 70, 129, 100, 31, 110, 60,
-                                105, 70, 129, 100, 31, 110, 60, 105, 70, 129,
-                                100, 31, 110, 60, 105, 70, 129, 100, 31, 110,
-                                60, 105, 70, 100, 31, 110, 60, 105, 70, 129,
-                                129, 100,
-                        ],
+                        data: bank?.attackArray,
                 },
         ]
+        const seriesBankTotal = [bank?.total]
+        const seriesBankAttack = [bank?.attack]
+
+        // 증권
+        const seriesSecuritiesTotalArray = [
+                {
+                        name: 'series1',
+                        data: securities?.totalArray,
+                },
+        ]
+        const seriesSecuritiesAttackArray = [
+                {
+                        name: 'series1',
+                        data: securities?.attackArray,
+                },
+        ]
+        const seriesSecuritiesTotal = [securities?.total]
+        const seriesSecuritiesAttack = [securities?.attack]
+
+        // 티아이
+        const seriesTiTotalArray = [
+                {
+                        name: 'series1',
+                        data: ti?.totalArray,
+                },
+        ]
+        const seriesTiAttackArray = [
+                {
+                        name: 'series1',
+                        data: ti?.attackArray,
+                },
+        ]
+        const seriesTiTotal = [ti?.total]
+        const seriesTiAttack = [ti?.attack]
+
+        // 증권
+        const seriesCardTotalArray = [
+                {
+                        name: 'series1',
+                        data: card?.totalArray,
+                },
+        ]
+        const seriesCardAttackArray = [
+                {
+                        name: 'series1',
+                        data: card?.attackArray,
+                },
+        ]
+        const seriesCardTotal = [card?.total]
+        const seriesCardAttack = [card?.attack]
+
         const chartOptionsA = {
                 chart: {
                         height: 350,
@@ -157,10 +226,6 @@ const page = () => {
                         },
                 },
         }
-
-        const series1 = [1264]
-        const series2 = [14]
-
         const chartOptions1 = {
                 chart: {
                         height: '100%',
@@ -350,7 +415,7 @@ const page = () => {
                                                                                                 chartOptions1
                                                                                         }
                                                                                         series={
-                                                                                                series1
+                                                                                                seriesBankTotal
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -365,7 +430,7 @@ const page = () => {
                                                                                 chartOptionsA
                                                                         }
                                                                         series={
-                                                                                seriesA
+                                                                                seriesBankTotalArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -382,7 +447,7 @@ const page = () => {
                                                                                                 chartOptions2
                                                                                         }
                                                                                         series={
-                                                                                                series2
+                                                                                                seriesBankAttack
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -401,7 +466,7 @@ const page = () => {
                                                                                 chartOptionsB
                                                                         }
                                                                         series={
-                                                                                seriesB
+                                                                                seriesBankAttackArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -429,7 +494,7 @@ const page = () => {
                                                                                                 chartOptions1
                                                                                         }
                                                                                         series={
-                                                                                                series1
+                                                                                                seriesSecuritiesTotal
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -444,7 +509,7 @@ const page = () => {
                                                                                 chartOptionsA
                                                                         }
                                                                         series={
-                                                                                seriesA
+                                                                                seriesSecuritiesTotalArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -461,7 +526,7 @@ const page = () => {
                                                                                                 chartOptions2
                                                                                         }
                                                                                         series={
-                                                                                                series2
+                                                                                                seriesSecuritiesAttack
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -480,7 +545,7 @@ const page = () => {
                                                                                 chartOptionsB
                                                                         }
                                                                         series={
-                                                                                seriesB
+                                                                                seriesSecuritiesAttackArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -511,7 +576,7 @@ const page = () => {
                                                                                                 chartOptions1
                                                                                         }
                                                                                         series={
-                                                                                                series1
+                                                                                                seriesTiTotal
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -526,7 +591,7 @@ const page = () => {
                                                                                 chartOptionsA
                                                                         }
                                                                         series={
-                                                                                seriesA
+                                                                                seriesTiTotalArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -543,7 +608,7 @@ const page = () => {
                                                                                                 chartOptions2
                                                                                         }
                                                                                         series={
-                                                                                                series2
+                                                                                                seriesTiAttack
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -562,7 +627,7 @@ const page = () => {
                                                                                 chartOptionsB
                                                                         }
                                                                         series={
-                                                                                seriesB
+                                                                                seriesTiAttackArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -590,7 +655,7 @@ const page = () => {
                                                                                                 chartOptions1
                                                                                         }
                                                                                         series={
-                                                                                                series1
+                                                                                                seriesCardTotal
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -605,7 +670,7 @@ const page = () => {
                                                                                 chartOptionsA
                                                                         }
                                                                         series={
-                                                                                seriesA
+                                                                                seriesCardTotalArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"
@@ -622,7 +687,7 @@ const page = () => {
                                                                                                 chartOptions2
                                                                                         }
                                                                                         series={
-                                                                                                series2
+                                                                                                seriesCardAttack
                                                                                         }
                                                                                         type="radialBar"
                                                                                         width="150%"
@@ -641,7 +706,7 @@ const page = () => {
                                                                                 chartOptionsB
                                                                         }
                                                                         series={
-                                                                                seriesB
+                                                                                seriesCardAttackArray
                                                                         }
                                                                         type="bar"
                                                                         width="100%"

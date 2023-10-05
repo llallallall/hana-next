@@ -4,6 +4,8 @@ import { useState, useEffect } from 'react'
 import dynamic from 'next/dynamic'
 const Chart = dynamic(() => import('react-apexcharts'), { ssr: false })
 import { chartAffiliates } from '@/contexts/main'
+import CountUp from 'react-countup'
+
 const addComma = (price) => {
         let returnString = price
                 ?.toString()
@@ -47,6 +49,7 @@ const page = () => {
         // "casesMedium": 761,
         // "casesLow": 58,
         // "weeklyTrend": [
+
         useEffect(() => {
                 fetch('/data/chart_info.json')
                         .then((resp) => resp.json())
@@ -218,6 +221,10 @@ const page = () => {
                 return () => {
                         clearInterval(timer)
                 }
+        })
+
+        useEffect(() => {
+                if (!loaded) fetchData()
         })
 
         const chartOptionsB = {
@@ -578,11 +585,15 @@ const page = () => {
                                                         총합
                                                 </div>
                                                 <div className="flex items-center justify-center text-[7.667vh] font-apple font-extrabold text-[#01c9ae]">
-                                                        {info &&
-                                                                addComma(
-                                                                        info.detectionCount +
-                                                                                info.blockCount
-                                                                )}
+                                                        <CountUp
+                                                                delay={0}
+                                                                duration={3}
+                                                                separator=","
+                                                                end={
+                                                                        info?.detectionCount +
+                                                                        info?.blockCount
+                                                                }
+                                                        />
                                                 </div>
                                         </div>
                                         <div className="flex justify-center">
@@ -594,10 +605,14 @@ const page = () => {
                                                         탐지 건수
                                                 </div>
                                                 <div className="flex items-center justify-center text-[7.667vh] font-apple font-extrabold text-[#01c9ae] ">
-                                                        {info &&
-                                                                addComma(
-                                                                        info.detectionCount
-                                                                )}
+                                                        <CountUp
+                                                                delay={0}
+                                                                duration={3}
+                                                                separator=","
+                                                                end={
+                                                                        info?.detectionCount
+                                                                }
+                                                        />
                                                 </div>
                                         </div>
                                         <div className="  flex justify-center">
@@ -608,10 +623,14 @@ const page = () => {
                                                         차단 건수
                                                 </div>
                                                 <div className="flex items-center justify-center text-[7.667vh] font-apple font-extrabold text-[#01c9ae] ">
-                                                        {info &&
-                                                                addComma(
-                                                                        info.blockCount
-                                                                )}
+                                                        <CountUp
+                                                                delay={0}
+                                                                duration={3}
+                                                                separator=","
+                                                                end={
+                                                                        info?.blockCount
+                                                                }
+                                                        />
                                                 </div>
                                         </div>
                                         <div className="flex justify-center">
@@ -648,9 +667,19 @@ const page = () => {
                                                                         통합
                                                                 </div>
                                                                 <div className="font-applyHeavy text-[3.2vh] flex items-start w-full h-[50%]  justify-center">
-                                                                        {info &&
-                                                                                info.stateTodayComplete +
-                                                                                        info.stateTodayImcomplete}
+                                                                        <CountUp
+                                                                                delay={
+                                                                                        0
+                                                                                }
+                                                                                duration={
+                                                                                        2
+                                                                                }
+                                                                                separator=","
+                                                                                end={
+                                                                                        info?.stateTodayComplete +
+                                                                                        info?.stateTodayImcomplete
+                                                                                }
+                                                                        />
                                                                 </div>
                                                         </div>
                                                         <div className="border-[0.2vw] border-white/30 rounded-t-3xl w-[6.361vw] h-[13.889vh] flex-col items-center justify-center text-[#0ab1b2]">
@@ -658,8 +687,18 @@ const page = () => {
                                                                         완료
                                                                 </div>
                                                                 <div className="text-[3.2vh] font-applyHeavy flex items-start w-full h-[50%]  justify-center">
-                                                                        {info &&
-                                                                                info.stateTodayComplete}
+                                                                        <CountUp
+                                                                                delay={
+                                                                                        0
+                                                                                }
+                                                                                duration={
+                                                                                        2
+                                                                                }
+                                                                                separator=","
+                                                                                end={
+                                                                                        info?.stateTodayComplete
+                                                                                }
+                                                                        />
                                                                 </div>
                                                         </div>
                                                         <div className="border-[0.2vw] border-white/30 rounded-t-3xl w-[6.361vw] h-[13.889vh] flex-col items-center justify-center text-[#71cbd2]">
@@ -667,8 +706,18 @@ const page = () => {
                                                                         진행중
                                                                 </div>
                                                                 <div className="font-applyHeavy text-[3.2vh] flex items-start w-full h-[50%]  justify-center">
-                                                                        {info &&
-                                                                                info.stateTodayImcomplete}
+                                                                        <CountUp
+                                                                                delay={
+                                                                                        0
+                                                                                }
+                                                                                duration={
+                                                                                        2
+                                                                                }
+                                                                                separator=","
+                                                                                end={
+                                                                                        info?.stateTodayImcomplete
+                                                                                }
+                                                                        />
                                                                 </div>
                                                         </div>
                                                         <div className="border-[0.2vw] border-white/30 rounded-t-3xl w-[6.361vw] h-[13.889vh] flex-col items-center justify-center text-[#d1fbff]">
@@ -676,11 +725,21 @@ const page = () => {
                                                                         전일대비
                                                                 </div>
                                                                 <div className="font-applyHeavy text-[3.2vh] flex items-start w-full h-[50%]  justify-center">
-                                                                        {info &&
-                                                                                info.stateTodayComplete +
-                                                                                        info.stateTodayImcomplete -
-                                                                                        info.stateYesterdayComplete -
-                                                                                        info.stateYesterdayImcomplete}
+                                                                        <CountUp
+                                                                                delay={
+                                                                                        0
+                                                                                }
+                                                                                duration={
+                                                                                        2
+                                                                                }
+                                                                                separator=","
+                                                                                end={
+                                                                                        info?.stateTodayComplete +
+                                                                                        info?.stateTodayImcomplete -
+                                                                                        info?.stateYesterdayComplete -
+                                                                                        info?.stateYesterdayImcomplete
+                                                                                }
+                                                                        />
                                                                 </div>
                                                         </div>
                                                 </div>

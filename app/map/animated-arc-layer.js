@@ -23,9 +23,9 @@ export default class AnimatedArcLayer extends ArcLayer {
                                         }
                                         `,
                         // Shape trail into teardrop
-                        // float f = (vTimestamp - timeRange.x) / (timeRange.y - timeRange.x)
+                        // float f =
                         'fs:DECKGL_FILTER_COLOR': `\
-                                        float f = 1.0;
+                                        float f = (vTimestamp - timeRange.x) / (timeRange.y - timeRange.x);
                                         color.a *= pow(f, 5.0);
                                         float cap = 10.0 * (f - 0.9);
                                         float w = pow(f, 4.0) - smoothstep(0.89, 0.91, f) * pow(cap, 4.0);
