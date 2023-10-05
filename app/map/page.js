@@ -25,7 +25,7 @@ const page = () => {
                                 zoom: newZoom,
                         })
                 }, 300)
-        }, [window.innerWidth])
+        }, [])
 
         // 데이터 로드
         const [dataLoaded, setDataLoaded] = useState(false)
