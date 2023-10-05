@@ -15,7 +15,10 @@ const page = () => {
         })
 
         useMemo(() => {
-                let newZoom = (2.6 / 3820) * window.innerWidth
+                let newZoom = 1
+                if (window) {
+                        newZoom = (2.6 / 3820) * window.innerWidth
+                }
 
                 setTimeout(() => {
                         // 비율리사이즈
