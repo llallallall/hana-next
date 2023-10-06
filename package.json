@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@canvasjs/react-charts": "^1.0.0",
     "@deck.gl/core": "^8.9.30",
     "@deck.gl/extensions": "^8.9.30",
     "@deck.gl/layers": "^8.9.30",
