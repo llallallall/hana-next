@@ -1,4 +1,3 @@
-'use client'
 import React, { useRef, useMemo, useEffect, useState } from 'react'
 import CanvasJSReact from '@canvasjs/react-charts'
 import { chartAffiliates } from '@/contexts/main'
@@ -6,7 +5,19 @@ import { chartAffiliates } from '@/contexts/main'
 var CanvasJS = CanvasJSReact.CanvasJS
 var CanvasJSChart = CanvasJSReact.CanvasJSChart
 
-const DynamicChart = ({ zoomRatio }) => {
+const DynamicChart = () => {
+        const [zoomRatio, setZoomRatio] = useState(1)
+        let newZoom = 0
+        useEffect(() => {
+                if (newZoom == 0) {
+                        newZoom == 1
+                        if (window) {
+                                newZoom = window.innerWidth / 3820
+                        }
+                        setZoomRatio(newZoom)
+                }
+        })
+
         //initial values
         const [series, setSeries] = useState()
         const updateInterval = 1000 // 1000 = 1초
@@ -116,6 +127,9 @@ const DynamicChart = ({ zoomRatio }) => {
                 })
         }
 
+        if (typeof window === 'undefined') {
+                return null
+        }
         // 최초 실행
         let initFetch = false
         useMemo(() => {

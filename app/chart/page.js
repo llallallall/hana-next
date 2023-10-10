@@ -1,17 +1,19 @@
 'use client'
 import './chart.css'
-import { useState, useEffect } from 'react'
-
+// import dynamic from 'next/dynamic'
+import { useState, useEffect, useMemo } from 'react'
+//import CanvasChart from '@/components/chart/CanvasChart'
+// import EChart from '@/components/chart/EChart'
 import Summary from '@/components/chart/Summary'
 import ProcessingStatus from '@/components/chart/ProcessingStatus'
 import CasesByRisk from '@/components/chart/CasesByRisk'
 import Notice from '@/components/chart/Notice'
 import DailyTrend from '@/components/chart/DailyTrend'
-import dynamic from 'next/dynamic'
-const DynamicChart = dynamic(() => import('@/components/chart/DynamicChart'), {
-        ssr: false,
-})
+//import DynamicChart from '@/components/chart/DynamicChart'
 
+// const CanvasChart = dynamic(() => import('@/components/chart/CanvasChart'), {
+//         ssr: false,
+// })
 const page = () => {
         const [info, setInfo] = useState()
         const [loaded, setLoaded] = useState(false)
@@ -54,7 +56,10 @@ const page = () => {
                                         xaxisLabel={xaxisLabel}
                                         zoomRatio={zoomRatio}
                                 /> */}
-                                <DynamicChart zoomRatio={zoomRatio} />
+
+                                {/* <DynamicChart zoomRatio={zoomRatio} /> */}
+                                {/* <EChart zoomRatio={zoomRatio} /> */}
+
                                 <div className="w-full h-[18.889vh]  mb-[7.037vh] flex justify-between items-start">
                                         <div className="flex-col items-center w-[29.843vw] h-full">
                                                 <div className="w-full h-[5.861vh] flex items-start justify-center text-[2.852vh] font-apple font-bold ">

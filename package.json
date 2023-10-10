@@ -9,13 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@canvasjs/react-charts": "^1.0.0",
     "@deck.gl/core": "^8.9.30",
     "@deck.gl/extensions": "^8.9.30",
     "@deck.gl/layers": "^8.9.30",
     "@deck.gl/react": "^8.9.30",
-    "@react-spring/web": "^9.7.3",
+    "@tanstack/react-query": "^4.36.1",
     "autoprefixer": "^10.4.16",
+    "axios": "^1.5.1",
+    "echarts-for-react": "^3.0.2",
     "next": "^13.5.4",
     "postcss": "^8.4.31",
     "react": "^18.2.0",

@@ -1,6 +1,7 @@
 import './globals.css'
 import localFont from 'next/font/local'
 import Image from 'next/image'
+
 const hana = localFont({
         src: [
                 {
