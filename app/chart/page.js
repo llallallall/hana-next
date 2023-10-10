@@ -7,7 +7,10 @@ import ProcessingStatus from '@/components/chart/ProcessingStatus'
 import CasesByRisk from '@/components/chart/CasesByRisk'
 import Notice from '@/components/chart/Notice'
 import DailyTrend from '@/components/chart/DailyTrend'
-import DynamicChart from '@/components/chart/DynamicChart'
+import dynamic from 'next/dynamic'
+const DynamicChart = dynamic(() => import('@/components/chart/DynamicChart'), {
+        ssr: false,
+})
 
 const page = () => {
         const [info, setInfo] = useState()

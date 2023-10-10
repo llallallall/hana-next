@@ -1,3 +1,4 @@
+'use client'
 import React, { useRef, useMemo, useEffect, useState } from 'react'
 import CanvasJSReact from '@canvasjs/react-charts'
 import { chartAffiliates } from '@/contexts/main'
